@@ -5,4 +5,4 @@ I coded the BP network in Python 3.7 version without using any framework and suc
 
 In general, you can use this code to address any regression probelm, because I canceled activation funciton in the last layer.
 
-The mian and entrance file is the mnist.py
+The main and entrance file is the mnist.py
